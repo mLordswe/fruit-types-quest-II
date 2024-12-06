@@ -20,7 +20,22 @@ export const numberOfColoredFruits = (color) => {
 	// finns det inga frukter av den färgen så svara 0
 };
 
+// gör en numberOfCategoryFruits här också
+// använd fruits-arrayen och returnera hur många frukter det finns av en given kategori
+
 export const getFruitsByCategory = (category) => {
 	// använd fruits-arrayen
 	// ta emot en kategori och returnera en array av alla frukter som ingår i den kategorin
 };
+
+// gör en getFruitsByColor också
+
+export const getIconsByCategory = (category) => {
+	// använd fruits-arrayen
+	// ta emot en kategori och returnera alla ikoner från alla frukter i den kategorin
+};
+
+// gör en getIconsByColor också
+
+// gör en getCategories som returnerar en array av alla kategorier
+// gör en getColors som returnerar en array av alla färger
